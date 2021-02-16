@@ -1,0 +1,2259 @@
+ID=1
+Бонус группы (2 игрока)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member2_NotFriend
+
+ID=2
+Бонус группы (2 игрока)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member2_Friend1
+
+ID=3
+Бонус группы (3 игрока)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member3_NotFriend
+
+ID=4
+Бонус группы (3 игрока)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member3_Friend1
+
+ID=5
+Бонус группы (3 игрока)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member3_Friend2
+
+ID=6
+Бонус группы (4 игрока и более)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member4_NotFriend
+
+ID=7
+Бонус группы (4 игрока и более)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member4_Friend1
+
+ID=8
+Бонус группы (4 игрока и более)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member4_Friend2
+
+ID=9
+Бонус группы (4 игрока и более)
+Бонус дается при создании группы.
+Icon/Booster/Icon_Booster_Party_Member4_Friend3
+
+ID=10
+Бонус интернет кафе
+Бонус даётся при подключении.
+Icon/Booster/Icon_Booster_PC_Café
+
+ID=11
+Бонус новичка 1 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=12
+Бонус новичка 2 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=13
+Бонус новичка 3 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=14
+Бонус новичка 4 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=15
+Бонус ученика 1 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=16
+Бонус ученика 2 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=17
+Бонус ученика 3 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=18
+Бонус ученика 4 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=19
+Бонус подмастерья 1 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=20
+Бонус подмастерья 2 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=21
+Бонус подмастерья 3 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=22
+Бонус подмастерья 4 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=23
+Бонус ветерана 1 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=24
+Бонус ветерана 2 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=25
+Бонус ветерана 3 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=26
+Бонус ветерана 4 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=27
+Бонус мастера 1 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=28
+Бонус мастера 2 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=29
+Бонус мастера 3 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=30
+Бонус мастера 4 ранга
+Бонус даётся при получении звания.
+Icon/Booster/Icon_Booster_Echelon
+
+ID=620
+Бонус сложности (Сложно)
+Эффект бонуса увеличивается по мере увеличения уровня сложности.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=630
+Бонус сложности (Смертельно)
+Эффект бонуса увеличивается по мере увеличения уровня сложности.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1001
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1002
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1003
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1004
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1005
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1006
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1007
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1008
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1009
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1010
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1011
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1012
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1013
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1014
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1015
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1016
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1017
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1018
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1019
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1020
+Burning Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1101
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1102
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1103
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1104
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1105
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1106
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1107
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1108
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1109
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1110
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1111
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1112
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1113
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1114
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1115
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1116
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1117
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1118
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1119
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1120
+Burning Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=1201
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1202
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1203
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1204
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1205
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1206
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1207
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1208
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1209
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1210
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1211
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1212
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1213
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1214
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1215
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1216
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1217
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1218
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1219
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1220
+Burning Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=1301
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1302
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1303
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1304
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1305
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1306
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1307
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1308
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1309
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1310
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1311
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1312
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1313
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1314
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1315
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1316
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1317
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1318
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1319
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1320
+Burning Event
+Количество получаемого опыта и монет увеличено.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1401
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1402
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1403
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1404
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1405
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1406
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1407
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1408
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1409
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1410
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1411
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1412
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1413
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1414
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1415
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1416
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1417
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1418
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1419
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1420
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1421
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1422
+Burning Event
+Шанс выпадения предметов и получаемый опыт увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1501
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1502
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1503
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1504
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1505
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1506
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1507
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1508
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1509
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1510
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1511
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1512
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1513
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1514
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1515
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1516
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1517
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1518
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1519
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1520
+Burning Event
+Шанс выпадения предметов и количество получаемых монет увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1601
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1602
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1603
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1604
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1605
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1606
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1607
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1608
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1609
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1610
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1611
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1612
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1613
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1614
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1615
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1616
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1617
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1618
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1619
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1620
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1621
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1622
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1623
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=2001
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2002
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2003
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2004
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2005
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2006
+Booster Event
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_item_Exp1
+
+ID=2051
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2052
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2053
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2054
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2055
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2056
+Booster Event
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_item_Gold1
+
+ID=2101
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2102
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2103
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2104
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2105
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2106
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2107
+Шанс выпадения предметов увеличен.
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2151
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2152
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2153
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2154
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2155
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=2156
+Booster Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Item_Burning1
+
+ID=3001
+Бонус за победу над The Thing!
+Получаемый опыт и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=5111
+Ежедневный Усилитель [Exp]
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5121
+Ежедневный Усилитель [Выпадение вещей]
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5131
+Ежедневный Усилитель [Монеты]
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5141
+Ежедневный Усилитель [Атака]
+Увеличение атаки
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5151
+Ежедневный Усилитель [Защита]
+Увеличение защиты.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5161
+Ежедневный Усилитель [Макс. HP]
+Максимальное HP увеличено.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5171
+Ежедневный Усилитель [Макс. SG]
+Пополняет SG до максимума
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5211
+Ежедневный Усилитель [Exp]
+Получаемый опыт увеличен.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5221
+Ежедневный Усилитель [Выпадение вещей]
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5231
+Ежедневный Усилитель [Монеты]
+Количество получаемых монет увеличено.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5241
+Ежедневный Усилитель [Атака]
+Увеличение атаки
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5251
+Ежедневный Усилитель [Защита]
+Увеличение защиты.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5261
+Ежедневный Усилитель [Макс. HP]
+Максимальное HP увеличено.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5271
+Ежедневный Усилитель [Макс. SG]
+Пополняет SG до максимума
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5281
+Ежедневный Усилитель [FP]
+Уменьшается потребление FP.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5282
+Ежедневный Усилитель [FP]
+Уменьшается потребление FP.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5283
+Ежедневный Усилитель [FP]
+Уменьшается потребление FP.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5284
+Ежедневный Усилитель [FP]
+Уменьшается потребление FP.
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=5291
+Ежедневный Усилитель [Секретное задание]
+Появляются секретные задания
+Icon/Booster/Icon_Booster_DailyEvent
+
+ID=6001
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6002
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6003
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6004
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6005
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6006
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6007
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6008
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6009
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6010
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6011
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6012
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6013
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6014
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6015
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6016
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6017
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6018
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6019
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6020
+Классовое событие
+Увеличивается получаемый опыт. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=6101
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6102
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6103
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6104
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6105
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6106
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6107
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6108
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6109
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6110
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6111
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6112
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6113
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6114
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6115
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6116
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6117
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6118
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6119
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6120
+Классовое событие
+Шанс выпадения предметов увеличен. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Item1
+
+ID=6201
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6202
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6203
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6204
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6205
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6206
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6207
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6208
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6209
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6210
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6211
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6212
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6213
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6214
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6215
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6216
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6217
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6218
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6219
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6220
+Классовое событие
+Увеличивается шанс выпадения монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Gold1
+
+ID=6301
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6302
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6303
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6304
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6305
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6306
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6307
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6308
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6309
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6310
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6311
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6312
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6313
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6314
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6315
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6316
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6317
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6318
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6319
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6320
+Классовое событие
+Увеличено число выпадающих монет. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6401
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6402
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6403
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6404
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6405
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6406
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6407
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6408
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6409
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6410
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6411
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6412
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6413
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6414
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6415
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6416
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6417
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6418
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6419
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6420
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6421
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6422
+Классовое событие
+Увеличивает получаемый опыт и шанс выпадения предметов. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6501
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6502
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6503
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6504
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6505
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6506
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6507
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6508
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6509
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6510
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6511
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6512
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6513
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6514
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6515
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6516
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6517
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6518
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6519
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6520
+Классовое событие
+Выпадение монет и шанс получения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6601
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6602
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6603
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6604
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6605
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6606
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6607
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6608
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6609
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6610
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6611
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6612
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6613
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6614
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6615
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6616
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6617
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6618
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6619
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6620
+Классовое событие
+Получение опыта, монет и шанс выпадения предметов увеличены. [Классовое событие]
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1700
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1701
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1702
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1703
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1704
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1705
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1706
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1707
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1708
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1709
+Burning Event
+Количество получаемого опыта, монет и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1710
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1711
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1712
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1713
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1714
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1715
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1716
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1717
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1718
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1719
+Burning Event
+Получаемый опыт и шанс выпадения вещей увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=7000
+Усилитель в знак поддержки футболистов на чемпионате!
+Получаемые монеты и максимальное HP увеличены.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=7001
+Усилитель в знак поддержки футболистов на чемпионате!
+Получаемые монеты, максимальное HP, атака и защита увеличены.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1810
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1811
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1812
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1813
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1814
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1815
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1816
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1817
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1818
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1819
+Burning Event
+Вы получаете больше опыта за убийство монстров, прохождение подземелий и выполнение заданий.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1820
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1821
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1822
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1823
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1824
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1825
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1826
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1827
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1828
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1829
+Burning Event
+Получаемый опыт за убийство монстров и прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1830
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1831
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1832
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1833
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1834
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1835
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1836
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1837
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1838
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1839
+Burning Event
+Получаемый опыт за прохождение подземелий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1840
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1841
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1842
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1843
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1844
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1845
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1846
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1847
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1848
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1849
+Burning Event
+Получаемый опыт за выполнение заданий увеличен.
+Icon/Booster/Icon_Booster_Event_Exp1
+
+ID=1850
+Burning Event
+Получаемый опыт, монеты и шанс улучшить снаряжение увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1851
+Burning Event
+Шанс улучшить снаряжение увеличен.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1852
+Burning Event
+Опыт, получаемый за убийство монстров, прохождение подземелий и выполнение заданий, а также монеты и шанс выпадения предметов увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=2109
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2110
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2111
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=2112
+Booster Event
+Шанс выпадения предметов увеличен.
+Icon/Booster/Icon_Booster_item_Item1
+
+ID=1853
+Burning Event
+Опыт получаемый за убийство монстров и шанс улучшить снаряжение увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=1854
+Burning Event
+Получаемые монеты, опыт за убийство монстров, прохождение подземелий и выполнение заданий и шансы выпадения предметов и улучшения снаряжения увеличены.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+ID=6802
+強化ブースト[攻撃力]
+Увеличение атаки
+Icon/Booster/Icon_Booster_BloodPerfume
+
+ID=6803
+強化ブースト[防御力]
+Увеличение защиты.
+Icon/Booster/Icon_Booster_IronPerfume
+
+ID=6804
+強化ブースト[攻撃速度]
+攻撃速度が増加する。
+Icon/Booster/Icon_Booster_FlashPerfume
+
+ID=6805
+強化ブースト[クリティカル確率]
+クリティカル確率が増加する。
+Icon/Booster/Icon_Booster_LightingPerfume
+
+ID=6806
+強化ブースト[移動速度]
+移動速度が増加する。
+Icon/Booster/Icon_Booster_FlashPerfume
+
+ID=3010
+Бонус за победу над The Thing!
+アイテムドロップ率20％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3011
+Бонус за победу над The Thing!
+アイテムドロップ率21％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3012
+Бонус за победу над The Thing!
+アイテムドロップ率22％、討伐経験値5％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3013
+Бонус за победу над The Thing!
+アイテムドロップ率22％、討伐経験値7％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3014
+Бонус за победу над The Thing!
+アイテムドロップ率22％、討伐経験値10％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3015
+Бонус за победу над The Thing!
+アイテムドロップ率22％、討伐経験値15％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3020
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率20％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3021
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率21％、討伐経験値5％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3022
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率22％、討伐経験値10％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3023
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率23％、討伐経験値10％、ドロップジェニー5％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3024
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率24％、討伐経験値15％、ドロップジェニー10％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
+
+ID=3025
+ザ・ドゥーム討伐ボーナス！
+アイテムドロップ率25％、討伐経験値15％、ドロップジェニー5％、クリア経験値10％増加。
+Icon/Booster/Icon_Booster_Kill_TheXing
